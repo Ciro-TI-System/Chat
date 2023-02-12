@@ -1,7 +1,7 @@
 <h1 align="center"> Chat - Mobile/Desktop </h1>
 
 <p align="center">
-Um chat mobile/desktop responsivo.
+Um chat responsivo desenvolvido para mobile e desktop.
 </p>
 
 <p align="center">
