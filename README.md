@@ -18,7 +18,7 @@ Um chat responsivo desenvolvido para mobile e desktop.
 <br>
 
 <p align="center">
-  <img alt="" src=".github\.jpg" width="100%">
+  <img alt="" src=".github\Chat.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
