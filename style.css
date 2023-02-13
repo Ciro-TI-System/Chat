@@ -32,3 +32,43 @@ body * {
   grid-template-rows: max-content 1fr max-content;
   margin: auto;
 }
+
+#top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#user-info {
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
+}
+
+#user-info img {
+  width: 4.8rem;
+  height: 4.8rem;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+#user-status .status {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  margin-top: 0.4rem;
+}
+
+#user-status .status::before {
+  content: "";
+  width: 0.8rem;
+  height: 0.8rem;
+  display: block;
+  background-color: #00b37e;
+  border-radius: 50%;
+}
+
+#user-status .status {
+  color: #00b37e;
+  font-size: 1.2rem;
+}
