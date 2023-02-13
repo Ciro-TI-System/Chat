@@ -72,3 +72,10 @@ body * {
   color: #00b37e;
   font-size: 1.2rem;
 }
+
+#last-seen {
+  margin-top: 2.6rem;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+  text-align: center;
+}
