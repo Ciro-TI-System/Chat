@@ -30,7 +30,7 @@ Uma tela de documentação de botões que possui uma área de pré-visualizaçã
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através <a>[DESSE LINK](https://www.figma.com/community/file/1197534710257750520).</a>
+Você pode visualizar o layout do projeto através <a>[DESSE LINK](https://www.figma.com/file/Wo8YNrxXjIYgxKrqsiQNxn/%23boraCodar---Desafio-4-(Community)?node-id=0%3A1&t=vSFKQxQDD1OCcbo3-0).</a>
 </br>
 É necessário ter conta no <a>[Figma](https://figma.com)</a> para acessá-lo.
 
